@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [App Link] (#Pixel Art Link)
+* [AppLink] (#applink)
 
 ## Instructions
 
